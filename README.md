@@ -2,3 +2,4 @@
 
 "unit-test2"
 Based on https://github.com/coursar/neto-template
+Task: https://github.com/netology-code/js-advanced-homeworks/tree/master/unit-test
